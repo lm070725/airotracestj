@@ -19,8 +19,9 @@ working model as of 18/11/26 functionality:
     slide switching wirelessly
 
 future capabilities for 1-2 month timeframe of work
-    back switching ie -> going forward and backwards in slide
-        to implement this functionality, instead of taking the "strength" of acceleration from the microbits, you will have to take the actual acceleration data in mg. This will be a bit tricky to implement especially if you are unfamiliar with python but I have attached some useful resources to get you started if you desire!!
+    
+    1. back switching ie -> going forward and backwards in slide
+        to implement this functionality, instead of taking the "strength" of acceleration from the microbits, you will have to take the actual acceleration data in mg. This will be a bit tricky to implement especially if      you are unfamiliar with python but I have attached some useful resources to get you started if you desire!!
 
 
 useful resources:

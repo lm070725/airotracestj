@@ -1,10 +1,11 @@
 
 REQS -> 2X MICROBIT, PC, USB MICRO TO USB A, BATTERY PACK
 
-1. INSTALL VS CODE ON PC
-2. INSTALL PYSERIAL AND PYAUTOGUI WITH pip install 
-3. create python file
-4. paste main.py into file
+1. LOG INTO EXAM ACCOUNT
+2. OPEN THONNY
+3. PASTE main.py INTO THONNY
+4. RUN python -m serial.tools.list_ports in terminal
+5. USE THE COM PORT SHOWN IN THE CODE
 
 YELLOW = TX BLUE = RX
 5. Load MICROBIT TX WITH TX CODE
